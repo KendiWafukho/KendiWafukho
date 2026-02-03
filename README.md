@@ -1,4 +1,4 @@
-## Hi there,Lavonne here! 👋
+## Hi there,Lavonne here!
 
 <!--
 **KendiWafukho/KendiWafukho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
